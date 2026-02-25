@@ -50,6 +50,7 @@ Das Spiel wurde unter einem strikten Zeitlimit mit folgendem Fahrplan entwickelt
 * **Grafik:** Minimalistische Unity-Primitives mit Post-Processing (Bloom) für den Neon-Look.
 
 **Zum Testen:**
-1. Klone dieses Repository: `git clone https://github.com/DEIN-USERNAME/Neon-Ascend.git`
-2. Öffne das Projekt im Unity Hub.
-3. Öffne die Szene `MainScene` im Ordner `Scenes` und drücke auf "Play". (Steuerung im Editor per Mausklick).
+1. Klone dieses Repository: `[git clone https://github.com/PeterRappold/unity_neon_ascend]
+   `
+3. Öffne das Projekt im Unity Hub.
+4. Öffne die Szene `MainScene` im Ordner `Scenes` und drücke auf "Play". (Steuerung im Editor per Mausklick).
